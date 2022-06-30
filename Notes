@@ -1,10 +1,10 @@
 https://medium.com/@tarcisioma/ransomware-encryption-techniques-696531d07bb9 - ransomware decryption/encryption process
-IDEA: \n
--victim downloads ransomware \n
--malware encrypts files \n
--ransom message with info, textbox to paste crypto wallet adress and verify payment button \n
--victim pays ransom, paste crypto wallet adress and clinks verify \n
--decryptor asks c2 if payment was done \n
--if yes c2 sends back decryption key to decryptor \n
--decryptor starts it's job \n
--attacker is happy :) \n
+IDEA: 
+-victim downloads ransomware 
+-malware encrypts files 
+-ransom message with info, textbox to paste crypto wallet adress and verify payment button 
+-victim pays ransom, paste crypto wallet adress and clinks verify 
+-decryptor asks c2 if payment was done 
+-if yes c2 sends back decryption key to decryptor 
+-decryptor starts it's job 
+-attacker is happy :) 
