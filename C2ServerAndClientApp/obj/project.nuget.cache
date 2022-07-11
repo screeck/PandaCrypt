@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dYg6hGaK2Irln17bmTWQSRshNkJak3m+7IeaOUCtI43nBoQ8stkm/9TVG5io8L/VGsTXw8J1F/klNhBJUlaAkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IEUser\\source\\repos\\C2Server\\C2Server\\C2Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IEUser\\.nuget\\packages\\supersimpletcp\\2.6.1.1\\supersimpletcp.2.6.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
