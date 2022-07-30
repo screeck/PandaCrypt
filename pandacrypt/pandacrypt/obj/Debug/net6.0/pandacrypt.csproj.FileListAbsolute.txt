@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\bin\Debug\net6.0\pandacrypt.exe
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\bin\Debug\net6.0\pandacrypt.deps.json
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\bin\Debug\net6.0\pandacrypt.runtimeconfig.json
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\bin\Debug\net6.0\pandacrypt.dll
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\bin\Debug\net6.0\pandacrypt.pdb
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\obj\Debug\net6.0\pandacrypt.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\obj\Debug\net6.0\pandacrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\obj\Debug\net6.0\pandacrypt.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\obj\Debug\net6.0\pandacrypt.AssemblyInfo.cs
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\obj\Debug\net6.0\pandacrypt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\obj\Debug\net6.0\pandacrypt.dll
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\obj\Debug\net6.0\refint\pandacrypt.dll
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\obj\Debug\net6.0\pandacrypt.pdb
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\obj\Debug\net6.0\pandacrypt.genruntimeconfig.cache
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\obj\Debug\net6.0\ref\pandacrypt.dll
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\bin\Debug\net6.0\SharpAESCrypt.dll
+C:\Users\User\source\repos\PandaCrypt\pandacrypt\pandacrypt\obj\Debug\net6.0\pandacrypt.csproj.CopyComplete
